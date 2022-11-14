@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### Ph.D. dissertation
+
+- [read it online](https://pintergreg.github.io/dissertation/)
+
 ### Featured Publications
 
 1. [Awakening City: Traces of the Circadian Rhythm within the Mobile Phone Network Data](https://www.mdpi.com/2078-2489/13/3/114) ![open access](https://img.shields.io/badge/journal%20article-open%20access-green.svg)
